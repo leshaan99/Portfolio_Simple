@@ -81,6 +81,10 @@ nav{
     flex-basis: 40%;
 }
 
+.profile-img {
+    padding-top: 60px;
+}
+
 .col2{
     flex-basis: 55%;
 }
