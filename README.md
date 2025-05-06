@@ -1,4 +1,4 @@
-# Leshan Sanjeewa | Portfolio Website
+# Portfolio Website
 
 Welcome to my personal portfolio website! This project showcases my background, skills, and selected projects as a Software Engineering undergraduate, with a focus on DevOps and Cloud Engineering.
 
@@ -28,11 +28,11 @@ To run this project on your local machine, follow these steps:
    ```bash
    git clone https://github.com/leshaan99/portfolio.git
 
-2. **CNavigate into the Project Directory**
+2. **Navigate into the Project Directory**
 
    ```bash
    cd portfolio
 
 3. **Open the index.html File in Your Browser**
-
-You can simply double-click index.html, or use a live server if using VS Code.
+    
+    You can simply double-click index.html, or use a live server if using VS Code.
